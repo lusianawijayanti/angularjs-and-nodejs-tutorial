@@ -1,1 +1,1 @@
-# angularjs-and-nodejs-tutorial
+# angularjs-tutorial
